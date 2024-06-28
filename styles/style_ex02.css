@@ -65,3 +65,8 @@ nav{
     gap: 1.5rem;
     
 }
+.perfil{
+    height: 40px;
+    width: 50px;
+    border-radius: 90%;
+}
